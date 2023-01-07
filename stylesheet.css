@@ -1,0 +1,38 @@
+body {
+	background-color: yellow;
+	}
+	
+h1 {
+	font-family: Georgia, serif;
+	text-align: center;
+}
+
+h3 {
+	font-family: Georgia, serif;
+	text-align: center;
+}
+
+form {
+	font-family: Georgia, serif;
+  text-align: left;
+  width: 300px;
+  border-radius: 5px;
+  border: 10px;
+  padding: 30px;
+  margin: auto;
+  border-style: solid;
+	/*border-style: solid;
+	text-align: center;*/
+}
+
+ul {
+	list-style: none;
+}
+
+#submit {
+	margin: auto;
+	margin-left: 77px;	
+}
+
+#agelab {
+	margin-left: 77px
